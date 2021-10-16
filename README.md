@@ -4,3 +4,9 @@ File generated on:
 
 Lines of code in the script:
 31
+
+
+Заголовок 1 | Заголовок 2
+:-- | --:
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
